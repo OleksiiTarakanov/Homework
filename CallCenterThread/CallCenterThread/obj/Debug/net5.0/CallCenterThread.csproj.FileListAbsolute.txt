@@ -1,0 +1,16 @@
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.csproj.AssemblyReference.cache
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.AssemblyInfoInputs.cache
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.AssemblyInfo.cs
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.csproj.CoreCompileInputs.cache
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\bin\Debug\net5.0\CallCenterThread.exe
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\bin\Debug\net5.0\CallCenterThread.deps.json
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\bin\Debug\net5.0\CallCenterThread.runtimeconfig.json
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\bin\Debug\net5.0\CallCenterThread.runtimeconfig.dev.json
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\bin\Debug\net5.0\CallCenterThread.dll
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\bin\Debug\net5.0\ref\CallCenterThread.dll
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\bin\Debug\net5.0\CallCenterThread.pdb
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.dll
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\ref\CallCenterThread.dll
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.pdb
+C:\Users\Леха\source\repos\CallCenterThread\CallCenterThread\obj\Debug\net5.0\CallCenterThread.genruntimeconfig.cache

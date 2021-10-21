@@ -1,0 +1,16 @@
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\bin\Debug\net5.0\ExtentionMethod.exe
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\bin\Debug\net5.0\ExtentionMethod.deps.json
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\bin\Debug\net5.0\ExtentionMethod.runtimeconfig.json
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\bin\Debug\net5.0\ExtentionMethod.runtimeconfig.dev.json
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\bin\Debug\net5.0\ExtentionMethod.dll
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\bin\Debug\net5.0\ref\ExtentionMethod.dll
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\bin\Debug\net5.0\ExtentionMethod.pdb
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.csproj.AssemblyReference.cache
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.AssemblyInfoInputs.cache
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.AssemblyInfo.cs
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.dll
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ref\ExtentionMethod.dll
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.pdb
+C:\Users\Леха\source\repos\ExtentionMethod\ExtentionMethod\obj\Debug\net5.0\ExtentionMethod.genruntimeconfig.cache

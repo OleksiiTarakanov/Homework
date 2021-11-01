@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Леха\\source\\repos\\CallCenterTasks\\Tasks\\Tasks.csproj": {}
+    "C:\\Users\\exoft-user\\Desktop\\CampCAMP\\Homework\\CallCenterTasks\\Tasks\\Tasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Леха\\source\\repos\\CallCenterTasks\\Tasks\\Tasks.csproj": {
+    "C:\\Users\\exoft-user\\Desktop\\CampCAMP\\Homework\\CallCenterTasks\\Tasks\\Tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Леха\\source\\repos\\CallCenterTasks\\Tasks\\Tasks.csproj",
+        "projectUniqueName": "C:\\Users\\exoft-user\\Desktop\\CampCAMP\\Homework\\CallCenterTasks\\Tasks\\Tasks.csproj",
         "projectName": "Tasks",
-        "projectPath": "C:\\Users\\Леха\\source\\repos\\CallCenterTasks\\Tasks\\Tasks.csproj",
-        "packagesPath": "C:\\Users\\Леха\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Леха\\source\\repos\\CallCenterTasks\\Tasks\\obj\\",
+        "projectPath": "C:\\Users\\exoft-user\\Desktop\\CampCAMP\\Homework\\CallCenterTasks\\Tasks\\Tasks.csproj",
+        "packagesPath": "C:\\Users\\exoft-user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\exoft-user\\Desktop\\CampCAMP\\Homework\\CallCenterTasks\\Tasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Леха\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\exoft-user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

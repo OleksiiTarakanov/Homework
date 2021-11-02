@@ -7,7 +7,6 @@ namespace DI_CORS_newest
 {
     public class BookService : IBookService
     {
-        public object _context;
         public List<Book> GetBooks()
         {
             return new List<Book>

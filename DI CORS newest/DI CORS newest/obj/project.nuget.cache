@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pF1u4qWQF4f+sNaCmUEFJe8ZjdV3/aON6Y6Fl6ozx1AJl30l7lOnG9l86Uhdd4BfL4uZibTo2KdFzi/G85FyyQ==",
+  "dgSpecHash": "lqZiBp0ykwRgSNdVbDefxO0HLtxWGdG2bBAHUrQVuKFX7sh+sdVOTtZK7HJoNi4/v0ZUylIIxHqk/xL5cmwxng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\exoft-user\\source\\repos\\DI CORS newest\\DI CORS newest\\DI CORS newest.csproj",
+  "projectFilePath": "C:\\Users\\exoft-user\\Desktop\\CampCAMP\\Homework\\DI CORS newest\\DI CORS newest\\DI CORS newest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\exoft-user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\exoft-user\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

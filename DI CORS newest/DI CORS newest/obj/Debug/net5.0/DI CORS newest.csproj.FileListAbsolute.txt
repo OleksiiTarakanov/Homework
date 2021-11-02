@@ -35,3 +35,40 @@ C:\Users\exoft-user\source\repos\DI CORS newest\DI CORS newest\obj\Debug\net5.0\
 C:\Users\exoft-user\source\repos\DI CORS newest\DI CORS newest\obj\Debug\net5.0\ref\DI CORS newest.dll
 C:\Users\exoft-user\source\repos\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.pdb
 C:\Users\exoft-user\source\repos\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.genruntimeconfig.cache
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\appsettings.json
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\DI CORS newest.exe
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\DI CORS newest.deps.json
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\DI CORS newest.runtimeconfig.json
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\DI CORS newest.runtimeconfig.dev.json
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\DI CORS newest.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\ref\DI CORS newest.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\DI CORS newest.pdb
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.csprojAssemblyReference.cache
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.AssemblyInfoInputs.cache
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.AssemblyInfo.cs
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.csproj.CoreCompileInputs.cache
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\staticwebassets\DI CORS newest.StaticWebAssets.Manifest.cache
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\staticwebassets\DI CORS newest.StaticWebAssets.xml
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\scopedcss\bundle\DI CORS newest.styles.css
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.RazorTargetAssemblyInfo.cache
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.csproj.CopyComplete
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\ref\DI CORS newest.dll
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.pdb
+C:\Users\exoft-user\Desktop\CampCAMP\Homework\DI CORS newest\DI CORS newest\obj\Debug\net5.0\DI CORS newest.genruntimeconfig.cache

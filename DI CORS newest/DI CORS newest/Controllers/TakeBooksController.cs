@@ -13,16 +13,9 @@ namespace DI_CORS_newest.Controllers
     {
         private readonly IBookService _bookService;
 
-
         public TakeBooksController(IBookService bookService)
         {
             _bookService = bookService;
-        }
-
-        [HttpGet]
-        public List<Book> GetBooks()
-        {
-            return _bookService.GetBooks();
         }
 
         [HttpPut]

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DI_CORS_newest.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -12,10 +13,17 @@ namespace DI_CORS_newest.Controllers
     public class GetBooksController : ControllerBase
     {
         private IBookService _bookService;
+        List<Book> booksList = new List<Book>();
+        private readonly BooksDbContext _context;
+
+        public GetBooksController(BooksDbContext context)
+        {
+            _context = context;
+        }
 
         public IBookService bookService
         {
-            get => _bookService ?? (_bookService = new BookService());
+            get => _bookService ?? (_bookService = new BookService(_context));
             set
             {
                 if (_bookService != null)
@@ -28,9 +36,20 @@ namespace DI_CORS_newest.Controllers
 
 
         [HttpGet]
-        public List<Book> GetAllBooks()
+        public async Task<IActionResult> GetAllBooks()
         {
-            return bookService.GetBooks();
+            var res = await bookService.GetBooks();
+            return Ok(res);
+        }
+
+        [HttpPost("AddBook")]
+        public async Task<IActionResult> AddBookToList([FromForm] Book book)
+        {
+            _context.Books.Add(book);
+            await _context.SaveChangesAsync();
+
+
+            return NoContent();
         }
 
     }

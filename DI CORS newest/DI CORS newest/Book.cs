@@ -7,19 +7,23 @@ namespace DI_CORS_newest
 {
     public class Book
     {
-        public Book(int id, string author, string name, int status)
+        public Book()
         {
-            Id = id;
+
+        }
+
+        public Book(string author, string name, int status)
+        {
             Author = author;
             Name = name;
             Status = (Status)status;
         }
 
-        public int Id { get; private set; }
+        public int Id { get; set; }
 
-        public string Author { get; }
+        public string Author { get; set; }
 
-        public string Name { get; }
+        public string Name { get; set; }
 
         public Status Status { get; set; }
     }

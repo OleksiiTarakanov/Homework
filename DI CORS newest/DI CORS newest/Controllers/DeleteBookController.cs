@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DI_CORS_newest.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -11,12 +12,19 @@ namespace DI_CORS_newest.Controllers
     [ApiController]
     public class DeleteBookController : ControllerBase
     {
-        [HttpDelete]
-        public List<Book> DeleteBook([FromServices] IBookService bookService, int id)
+        private readonly BooksDbContext _context;
+
+        public DeleteBookController(BooksDbContext context)
         {
-            var bookList = bookService.GetBooks();
-            bookList.RemoveAt(id-1);
-            return bookList;
+            _context = context;
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> DeleteBook([FromServices] IBookService bookService, int id)
+        {
+            var booklist = await bookService.GetBooks();
+            booklist.RemoveAt(id-1);
+            return Ok(booklist);
         }
     }
 }

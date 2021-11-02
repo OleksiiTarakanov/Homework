@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DI_CORS_newest.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace DI_CORS_newest.Controllers
 {
-    [Route("TakeBook")]
     [ApiController]
     public class TakeBooksController : ControllerBase
     {
@@ -18,19 +18,12 @@ namespace DI_CORS_newest.Controllers
             _bookService = bookService;
         }
 
-        [HttpPut]
-        public List<Book> TakeBook()
+        [HttpPut("books/{bookId}/status")]
+        public async Task<IActionResult> UpdateBookStatus([FromRoute] int bookId)
         {
-            List<Book> books = _bookService.GetBooks();
-            foreach(var book in books)
-            {
-                if (book.Status == Status.Available)
-                {
-                    book.Status = Status.Booked;
-                }
-            }
-            books[1].Status = Status.Booked;
-            return books;
+            await _bookService.UpdateBookStatus(bookId);
+
+            return Ok();
         }
     }
 }
